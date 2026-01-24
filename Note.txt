@@ -1,0 +1,21 @@
+- Change bullet to diamond
+- light the colors in the first page
+- font (like nima moshiri), my font is so tiny, like hairline! a lille more bold: font-family: 'Lato', sans-serif;   or   font-family: 'LatoLatinWeb', 'LatoWeb', 'Lato', sans-serif;
+
+
+
+https://vcardmaker.com/
+
+
+
+AWS Instruction:
+- go to S3
+- make a bucket
+- upload all files and press close on the top right
+- go to Properties tab and at the end select static hosting
+- go to Permission tab
+- uncheck (turn off) the block public access
+- got to Objects tab and select files, click on Actions and press make public
+
+Purchase Domain:
+- route 53  

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bagheri;Mostafa
+FN:Mostafa Bagheri
+ORG:Johnson & Johnson
+TITLE:Robotics and Controls Engineer
+TEL;CELL;VOICE:+14243474858
+URL;HOME:http://flyingv.ucsd.edu/mostafa
+URL;WORK:http://www.jnj.com
+EMAIL;INTERNET:mbagheri@its.jnj.com
+EMAIL;2;INTERNET:mostafa@nxtrobotics.com
+EMAIL;HOME,INTERNET:mstfbagheri@gmail.com
+NOTE:https://www.linkedin.com/in/mstf-bagheri
+END:VCARD

@@ -1,0 +1,10 @@
+@article{bagheri2020adaptive,
+  title={Adaptive control of a two-link robot using batch least-square identifier},
+  author={Bagheri, Mostafa and Karafyllis, Iasson and Naseradinmousavi, Peiman and Krstic, Miroslav},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={8},
+  number={1},
+  pages={86--93},
+  year={2020},
+  publisher={IEEE}
+}
