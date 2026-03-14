@@ -1602,7 +1602,7 @@
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro' /*'Lato'*/, sans-serif;
-		font-size: 19pt;
+		font-size: 21pt;
 		font-weight: 400;
 		line-height: 1.5em;  <!-- was 1.75 -->
 		color: #888;
@@ -1621,7 +1621,7 @@
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 21pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -2290,7 +2290,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 18pt;
 			}
 
 		/* Header */
@@ -2337,7 +2337,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 18pt;
 			}
 
 			.container {
@@ -2412,7 +2412,7 @@
 			}
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 18pt;
 			}
 
 			header br {
@@ -2594,7 +2594,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 14pt;
+				font-size: 17pt;
 			}
 
 			h2 {
